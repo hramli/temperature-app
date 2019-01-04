@@ -5,4 +5,4 @@
 <p>node &lt;file name&gt; &lt;location&gt;</p>
 <code>node app.js seattle</code>
 </br>
-<p>location can be in the form city/city,country/zip code/city ID
+<p>location can be in the form city/city,country/zip code/city ID</p>
