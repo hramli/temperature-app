@@ -3,6 +3,5 @@
 <p>Project using node.js and the https API</p>
 <h3>Example to run</h3>
 <p>node &lt;file name&gt; &lt;location&gt;</p>
-<code>node app.js seattle</code>
-</br>
 <p>location can be in the form city/city,country/zip code/city ID</p>
+<code>node app.js seattle</code>
