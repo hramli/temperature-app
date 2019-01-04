@@ -4,4 +4,5 @@
 <h3>Example to run</h3>
 node <file name> <location>
 <code>node app.js seattle</code>
+<br>
 <p> location can be in the form city/city,country/zip code/city ID
