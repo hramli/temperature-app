@@ -2,7 +2,7 @@
 <h3>Command Line Weather Application</h3>
 <p>Project using node.js and the https API</p>
 <h3>Example to run</h3>
-<p>node <file name> <location></p>
+<p>node &lt;file name&gt; &lt;location&gt;</p>
 <code>node app.js seattle</code>
 </br>
 <p>location can be in the form city/city,country/zip code/city ID
